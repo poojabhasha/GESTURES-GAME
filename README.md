@@ -22,9 +22,9 @@ Right → Snake moves right
 Up → Snake moves up
 Down → Snake moves down
 
-Technologies Used:
-
-Python
-OpenCV
-MediaPipe
-Pygame
+Features:
+Real-time hand gesture detection
+Smooth snake movement
+Food collision detection
+Game over detection
+Dual window display (Game + Camera view)
